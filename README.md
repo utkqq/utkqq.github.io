@@ -1,2 +1,3 @@
 # utkqq.github.io
-Kişisel Web Sitem
+Kişisel Web Site
+[TIKLA GİT](http://utkqq.github.io)
